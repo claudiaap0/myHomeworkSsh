@@ -1,2 +1,2 @@
 # Ignore password.txt file
-password.txt
+*.txt
